@@ -1,1 +1,1 @@
-# This is my personal profile website (using Bootstrap)
+# This is my personal profile website (using Bootstrap v3)
